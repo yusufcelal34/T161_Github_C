@@ -3,5 +3,8 @@ public class ortak {
         System.out.println("Merhaba Arkadaşlar");
         System.out.println("buradan babayigit geçti");
         System.out.println("Hi guys!");
+
+
+        System.out.println("Pancu ve Bobo");
     }
 }
