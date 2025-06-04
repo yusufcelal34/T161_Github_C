@@ -4,7 +4,7 @@ public class ortak {
         System.out.println("buradan babayigit geçti");
         System.out.println("Hi guys!");
 
-
+        System.out.println("ortalık karışacak vaziyet alın");
         System.out.println("Pancu ve Bobo");
     }
 }
